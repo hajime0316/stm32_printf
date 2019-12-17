@@ -8,6 +8,7 @@
 
 #include <stdarg.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 static UART_HandleTypeDef *huart_printf;
 
